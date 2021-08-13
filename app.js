@@ -40,7 +40,6 @@ function displayEmployees(empolyeeData){
         `
     });
     gridContainer.innerHTML = employeeHTML;
-    makeEmployeeNameArray();
 };
 
 function displayModal(index){
